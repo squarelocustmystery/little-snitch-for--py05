@@ -1,4 +1,4 @@
-# 
+# Little Snitch for macOS instant Tool: phishing-detection & network-monitoring offers the most advanced Little Snitch for macOS tool, with phishing-detection and
 
 
 
